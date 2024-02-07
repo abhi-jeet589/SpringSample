@@ -12,7 +12,7 @@
     <groupId>com.in28minutes.springboot.rest.example</groupId>
     <artifactId>spring-boot-2-rest-service-basic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>spring-boot-2-rest-service</name>
     <description>Spring Boot 2 and REST - Example Project</description>
